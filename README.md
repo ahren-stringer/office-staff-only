@@ -1,2 +1,2 @@
 # office-staff-only
-/
+/.
